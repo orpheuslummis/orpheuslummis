@@ -20,6 +20,7 @@ Matrix: @orpheus:beeper.com
 
 **Some past projects**
 - [Verified distributed super-computation of Collatz sequences](https://github.com/orpheuslummis/Collaptz) (2023 hackathon)
+- [Multisig wallet on FuelVM's predicate system](https://fuel-labs.ghost.io/ethlisbon22-recap/) (2022 hackathon)
 - [Threshold funding contract in CosmWasm](https://github.com/orpheuslummis/threshold-funding) (2022 hackathon)
 - [Private NFTs on Aztec zk-rollup](https://ethglobal.com/showcase/dizkreet-4rvz2) (2022 hackathon)
 - Computer activity classifier using screenshots (2019)
