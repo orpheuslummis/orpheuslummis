@@ -23,6 +23,6 @@ Matrix: @orpheus:beeper.com
 - [Multisig wallet on FuelVM's predicate system](https://fuel-labs.ghost.io/ethlisbon22-recap/) (2022 hackathon)
 - [Threshold funding contract in CosmWasm](https://github.com/orpheuslummis/threshold-funding) (2022 hackathon)
 - [Private NFTs on Aztec zk-rollup](https://ethglobal.com/showcase/dizkreet-4rvz2) (2022 hackathon)
-- Computer activity classifier using screenshots (2019)
+- Real-time computer activity neural net classifier using screenshots (2019)
 - https://timelines.issarice.com/wiki/Timeline_of_prediction_markets (2018)
 - Event organizing related to [effective altruism](https://altruismeefficacequebec.org/) or Montréal communities 
