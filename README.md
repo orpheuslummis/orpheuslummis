@@ -6,6 +6,8 @@ Email: [o@orpheuslummis.info](mailto:orpheuslummis.info)
 
 Matrix: @orpheus:beeper.com
 
+[Schedule a 15-30 min discussion](https://calendly.com/orpheuslummis/discussion30min) together
+
 **Working on (second half of 2023)**
 
 - [AI Safety Events](https://aisafetyevents.org/)
@@ -17,9 +19,9 @@ Matrix: @orpheus:beeper.com
 
 
 **Some past projects**
-- https://github.com/orpheuslummis/Collaptz
-- https://github.com/orpheuslummis/threshold-funding
+- [Verified distributed super-computation of Collatz sequences](https://github.com/orpheuslummis/Collaptz) (2023 hackathon)
+- [Threshold funding contract in CosmWasm](https://github.com/orpheuslummis/threshold-funding) (2022 hackathon)
+- [Private NFTs on Aztec zk-rollup](https://ethglobal.com/showcase/dizkreet-4rvz2) (2022 hackathon)
 - Computer activity classifier using screenshots (2019)
 - https://timelines.issarice.com/wiki/Timeline_of_prediction_markets (2018)
-- https://altruismeefficacequebec.org/
-- Event organizing related to effective altruism or Montréal communities
+- Event organizing related to [effective altruism](https://altruismeefficacequebec.org/) or Montréal communities 
