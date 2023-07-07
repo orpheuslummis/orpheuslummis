@@ -14,7 +14,7 @@ Matrix: @orpheus:beeper.com
 - TBD open source AI safety software
 - Closing loose threads on [DefraDB](https://github.com/sourcenetwork/defradb/)
 - Writing
-- marklummis.info - exhibition of my father's artistic work
+- [marklummis.info](https://marklummis.info) - exhibition of my father's artistic work
 - maybe: [Coincidence POC](https://github.com/orpheuslummis/coincidence), private voting with on-chain FHE (using zama), TBD ETH Montréal hackathon, [review of decentralized AI risk](https://github.com/orpheuslummis/decentralized-ai-risk-review), Montréal-local reading club, etc.
 
 
