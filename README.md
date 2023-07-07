@@ -2,7 +2,7 @@
 
 **Contact information**
 
-Email: [o@orpheuslummis.info](mailto:orpheuslummis.info)
+Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 
 Matrix: @orpheus:beeper.com
 
@@ -30,7 +30,7 @@ Matrix: @orpheus:beeper.com
 
 ## Long-term wishes
 - personal: be good in many dimensions, do fundamentals well, repentance, ...
-- transitition to superintelligence
+- transition to superintelligence
 - existential risks under control
 - participative plural democracy or global governance institutions
 - cellular agriculture to end factory farming
