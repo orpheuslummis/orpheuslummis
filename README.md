@@ -32,7 +32,7 @@ Matrix: @orpheus:beeper.com
 - personal: be good in many dimensions, do fundamentals well, repentance, ...
 - transitition to superintelligence
 - existential risks under control
-- participative democracy
+- participative plural democracy or global governance institutions
 - cellular agriculture to end factory farming
 - fusion energy
 - relate with mind phenomena across the cosmos (?)
