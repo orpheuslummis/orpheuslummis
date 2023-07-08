@@ -28,14 +28,5 @@ Matrix: @orpheus:beeper.com
 - Event organizing related to [effective altruism](https://altruismeefficacequebec.org/) or Montréal communities 
 
 
-## Long-term wishes
-- personal: be good in many dimensions, do fundamentals well, repentance, ...
-- transition to superintelligence
-- existential risks under control
-- participative plural democracy or global governance institutions
-- cellular agriculture to end factory farming
-- fusion energy
-- relate with mind phenomena across the cosmos (?)
-- wisdom (?)
-- theory and science - physics, consciousness, computational minds, human mind, simulation, meta-, ...
-- ...
+## Blog
+- TBD
