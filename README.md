@@ -28,5 +28,6 @@ Matrix: @orpheus:beeper.com
 - Event organizing related to [effective altruism](https://altruismeefficacequebec.org/) or Montréal communities 
 
 
-## Blog
+**Blog**
+
 - TBD
