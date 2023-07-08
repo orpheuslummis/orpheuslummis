@@ -20,6 +20,7 @@ Matrix: @orpheus:beeper.com
 - https://timelines.issarice.com/wiki/Timeline_of_prediction_markets (2018)
 - [Altruisme Efficace Québec](https://altruismeefficacequebec.org/)
 - Event organizing related to Montréal communities
+- [Wikipedia (EN) contributions](https://en.wikipedia.org/w/index.php?limit=500&title=Special%3AContributions&contribs=user&target=Orpheus+Lummis&namespace=&tagfilter=&start=&end=)
 - TBD: [Coincidence POC](https://github.com/orpheuslummis/coincidence), private voting with on-chain FHE (using zama), [review of decentralized AI risk](https://github.com/orpheuslummis/decentralized-ai-risk-review), ...
 
 
