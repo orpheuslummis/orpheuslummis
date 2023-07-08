@@ -8,7 +8,7 @@ Matrix: @orpheus:beeper.com
 
 [Schedule a 15-30 min discussion](https://calendly.com/orpheuslummis/discussion30min) together
 
-**Some projects Orpheus is causally related with**
+**Some projects Orpheus is notably causally related with**
 - [AI Safety Events](https://aisafetyevents.org/)
 - [DefraDB](https://github.com/sourcenetwork/defradb/)
 - [Verified distributed super-computation of Collatz sequences](https://github.com/orpheuslummis/Collaptz) (2023 hackathon)
