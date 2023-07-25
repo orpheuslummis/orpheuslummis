@@ -2,11 +2,9 @@
 
 **Contact information**
 
-Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
-
-Matrix: @orpheus:beeper.com
-
-[Schedule a 15-30 min discussion](https://calendly.com/orpheuslummis/discussion30min) together
+- Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
+- Matrix: @orpheus:beeper.com
+- [Schedule a brief discussion](https://calendly.com/orpheuslummis/discussion30min) together
 
 **Some projects Orpheus is notably causally related with**
 - [AI Safety Events](https://aisafetyevents.org/)
