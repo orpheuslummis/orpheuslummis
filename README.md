@@ -6,7 +6,19 @@
 - Matrix: @orpheus:beeper.com
 - [Schedule a brief discussion](https://calendly.com/orpheuslummis/discussion30min) together
 
-**Some projects Orpheus is notably causally related with**
+**Software consultancy**
+
+I specialize in distributed systems, machine learning, and AI safety.
+
+[See more info & reach out](https://orpheuslummis.info/software_consultancy.html).
+
+**Writing**
+
+[Follow my blog](https://orpheus.substack.com/).
+ 
+See the [Orpheus Wiki](https://wiki.orpheuslummis.info/) for random notes and work-in-progress writing.
+
+**Some projects I'm notably causally related with**
 - [AI Safety Events](https://aisafetyevents.org/) (2018-)
 - [DefraDB](https://github.com/sourcenetwork/defradb/) (2022-2023)
 - [Covalence](https://github.com/orpheuslummis/covalence) (2023)
@@ -21,8 +33,3 @@
 - Event organizing related to Montréal communities (2015-2018)
 - [Wikipedia (EN) contributions](https://en.wikipedia.org/w/index.php?limit=500&title=Special%3AContributions&contribs=user&target=Orpheus+Lummis&namespace=&tagfilter=&start=&end=)
 - TBD: [Coincidence POC](https://github.com/orpheuslummis/coincidence), [review of decentralized AI risk](https://github.com/orpheuslummis/decentralized-ai-risk-review), ...
-
-
-**Blog**
-
-See [Orpheus Wiki](https://wiki.orpheuslummis.info/).
