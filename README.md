@@ -4,7 +4,7 @@
 
 - Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 - Matrix: @orpheus:beeper.com
-- [Schedule a brief discussion](https://calendly.com/orpheuslummis/discussion30min) together
+- [Schedule a brief discussion](https://calendly.com/orpheuslummis/discussion) together
 
 **Software consultancy**
 
