@@ -1,22 +1,18 @@
 ## Orpheus Lummis 
 
-**Contact information**
+I specialize in distributed systems, machine learning, and AI safety. I do software consulting - [see more info & reach out](https://orpheuslummis.info/software_consultancy.html).
 
 - Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 - Matrix: @orpheus:beeper.com
-- [Schedule a brief discussion](https://calendly.com/orpheuslummis/discussion) together
+- [Schedule a call](https://calendly.com/orpheuslummis/discussion) together
+- [Blog](https://orpheus.substack.com/).
 
-**Software consultancy**
-
-I specialize in distributed systems, machine learning, and AI safety.
-
-[See more info & reach out](https://orpheuslummis.info/software_consultancy.html).
-
-**Writing**
-
-[Follow my blog](https://orpheus.substack.com/).
- 
-See the [Orpheus Wiki](https://wiki.orpheuslummis.info/) for random notes and work-in-progress writing.
+**Awards**
+- [2nd prize with Risc0 zero-knowledge VM](https://github.com/orpheuslummis/Collaptz), at ETH Waterloo 2023
+- Top 1% Engineer in AI & Machine Learning, Backend Engineering, and Web3 Development for October 2023, [on Pangea](https://share.pangea.app/manage/60e243a9-0cb5-47db-96b0-45b681f17f80).
+- [ETH Global Finalist](https://github.com/meirbank/ETHBogota2022) at ETH Bogota 2022
+- [1st prize with Fuel](https://fuel-labs.ghost.io/ethlisbon22-recap/), at ETH Lisbon 2022
+- Special Mention at HackWasm 2022 for [Threshold Funding CosmWasm contract](https://github.com/orpheuslummis/threshold-funding)
 
 **Some projects I'm notably causally related with**
 - [AI Safety Events](https://aisafetyevents.org/) (2018-)
