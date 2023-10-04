@@ -1,11 +1,11 @@
 ## Orpheus Lummis 
 
-I specialize in distributed systems, machine learning, and AI safety. I do software consulting - [see more info & reach out](https://orpheuslummis.info/software_consultancy.html).
+I specialize in distributed systems, machine learning, and AI safety. I do [software consulting](https://orpheuslummis.info/software_consultancy.html).
 
 - Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 - Matrix: @orpheus:beeper.com
 - [Schedule a call](https://calendly.com/orpheuslummis/discussion) together
-- [Blog](https://orpheus.substack.com/).
+- [Blog](https://orpheus.substack.com/)
 
 **Awards**
 - [2nd prize with Risc0 zero-knowledge VM](https://github.com/orpheuslummis/Collaptz), at ETH Waterloo 2023
@@ -24,7 +24,7 @@ I specialize in distributed systems, machine learning, and AI safety. I do softw
 - [Private NFTs on Aztec zk-rollup](https://ethglobal.com/showcase/dizkreet-4rvz2) (2022 hackathon)
 - [marklummis.info](https://marklummis.info) - exhibition of my father's artistic work
 - Real-time computer activity neural net classifier using screenshots (2019)
-- https://timelines.issarice.com/wiki/Timeline_of_prediction_markets (2018)
+- [Timeline of prediction markets](https://timelines.issarice.com/wiki/Timeline_of_prediction_markets) (2018)
 - [Altruisme Efficace Québec](https://altruismeefficacequebec.org/) (2018-)
 - Event organizing related to Montréal communities (2015-2018)
 - [Wikipedia (EN) contributions](https://en.wikipedia.org/w/index.php?limit=500&title=Special%3AContributions&contribs=user&target=Orpheus+Lummis&namespace=&tagfilter=&start=&end=)
