@@ -1,21 +1,18 @@
-## Orpheus Lummis 
+## Orpheus Lummis
 
-I specialize in distributed systems, machine learning, and AI safety. I do [software consulting](https://orpheuslummis.info/software_consultancy.html).
-
+## Info / Contact
 - Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
-- Matrix: @orpheus:beeper.com
-- [Schedule a call](https://calendly.com/orpheuslummis/discussion) together
+- Bluesky: [@orpheuslummis.info](https://bsky.app/profile/orpheuslummis.info)
+- Matrix: [@orpheus:beeper.com](https://matrix.to/#/@orpheus:beeper.com)
+- [Schedule a call](https://calendly.com/orpheuslummis/discussion) between us
 - [Blog](https://orpheus.substack.com/)
 
-**Awards**
-- [2nd prize with Risc0 zero-knowledge VM](https://github.com/orpheuslummis/Collaptz), at ETH Waterloo 2023
-- Top 1% Engineer in AI & Machine Learning, Backend Engineering, and Web3 Development for October 2023, [on Pangea](https://share.pangea.app/manage/60e243a9-0cb5-47db-96b0-45b681f17f80).
-- [ETH Global Finalist](https://github.com/meirbank/ETHBogota2022) at ETH Bogota 2022
-- [1st prize with Fuel](https://fuel-labs.ghost.io/ethlisbon22-recap/), at ETH Lisbon 2022
-- Special Mention at HackWasm 2022 for [Threshold Funding CosmWasm contract](https://github.com/orpheuslummis/threshold-funding)
+## Work-in-progress
+- [AI Safety Events](https://aisafetyevents.org/) organization: Events and services towards progress in AI safety R&D.
+- [AI Safety Events Tracker](https://aisafety.events/): Track events related to AI safety, via newsletter and website.
+- [Software consultancy](https://orpheuslummis.info/software_consultancy.html): Specialization in distributed systems, ML, and AI safety.
 
-**Some projects I'm notably causally related with**
-- [AI Safety Events](https://aisafetyevents.org/) (2018-)
+## Past work
 - [DefraDB](https://github.com/sourcenetwork/defradb/) (2022-2023)
 - [Covalence](https://github.com/orpheuslummis/covalence) (2023)
 - [Verified distributed super-computation of Collatz sequences](https://github.com/orpheuslummis/Collaptz) (2023 hackathon)
@@ -28,4 +25,9 @@ I specialize in distributed systems, machine learning, and AI safety. I do [soft
 - [Altruisme Efficace Québec](https://altruismeefficacequebec.org/) (2018-)
 - Event organizing related to Montréal communities (2015-2018)
 - [Wikipedia (EN) contributions](https://en.wikipedia.org/w/index.php?limit=500&title=Special%3AContributions&contribs=user&target=Orpheus+Lummis&namespace=&tagfilter=&start=&end=)
-- TBD: [Coincidence POC](https://github.com/orpheuslummis/coincidence), [review of decentralized AI risk](https://github.com/orpheuslummis/decentralized-ai-risk-review), ...
+- Awards
+  - [2nd prize with Risc0 zero-knowledge VM](https://github.com/orpheuslummis/Collaptz), at ETH Waterloo 2023
+  - Top 1% Engineer in AI & Machine Learning, Backend Engineering, and Web3 Development for October 2023, [on Pangea](https://share.pangea.app/manage/60e243a9-0cb5-47db-96b0-45b681f17f80).
+  - [ETH Global Finalist](https://github.com/meirbank/ETHBogota2022) at ETH Bogota 2022
+  - [1st prize with Fuel](https://fuel-labs.ghost.io/ethlisbon22-recap/) at ETH Lisbon 2022
+  - Special Mention at HackWasm 2022 for [Threshold Funding CosmWasm contract](https://github.com/orpheuslummis/threshold-funding)
