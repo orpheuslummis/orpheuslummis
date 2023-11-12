@@ -15,6 +15,7 @@
 ## Past work
 - [DefraDB](https://github.com/sourcenetwork/defradb/) (2022-2023)
 - [Covalence](https://github.com/orpheuslummis/covalence) (2023)
+- [(merkle xyz)](https://devfolio.co/projects/merkle-xyz-35fe) Merkle tree proof in Lurk, a Lisp ZK DSL (2023 hackathon)
 - [Verified distributed super-computation of Collatz sequences](https://github.com/orpheuslummis/Collaptz) (2023 hackathon)
 - [Multisig wallet on FuelVM's predicate system](https://fuel-labs.ghost.io/ethlisbon22-recap/) (2022 hackathon)
 - [Threshold funding contract in CosmWasm](https://github.com/orpheuslummis/threshold-funding) (2022 hackathon)
