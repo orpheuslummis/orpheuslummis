@@ -8,7 +8,7 @@
 - [Blog](https://orpheus.substack.com/)
 
 ## Work-in-progress
-- [AI Safety Events](https://aisafetyevents.org/) organization: Events and services towards progress in AI safety R&D.
+- [Horizon Events](https://www.horizonevents.info/) organization: Events and tools empowering progress for the public good.
 - [AI Safety Events Tracker](https://aisafety.events/): Track events related to AI safety, via newsletter and website.
 - [Software consultancy](https://orpheuslummis.info/software_consultancy.html): Specialization in distributed systems, ML, and AI safety.
 
