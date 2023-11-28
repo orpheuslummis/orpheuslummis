@@ -8,14 +8,13 @@
 - [Blog](https://orpheus.substack.com/)
 
 ## Work-in-progress
-- [Horizon Events](https://www.horizonevents.info/) organization: Events and tools empowering progress for the public good.
+- [Coincidence](https://www.coincidence.network/): Connecting the world and advancing matchmaking technologies for the flourishing of social relationships.
+- [Horizon Events](https://www.horizonevents.info/): Events and tools empowering progress for the public good.
 - [Covalence](https://github.com/orpheuslummis/covalence): New paradigm of collaboration through redefining valuation and distribution of equity
 - [AI Safety Events Tracker](https://aisafety.events/): Track events related to AI safety, via newsletter and website.
-- [Software consultancy](https://orpheuslummis.info/software_consultancy.html): Specialization in distributed systems, ML, and AI safety.
 
 ## Past work
 - [DefraDB](https://github.com/sourcenetwork/defradb/): User-centric database that prioritizes data ownership, personal privacy, and information security (2022-2023)
-- [Coincidence](https://github.com/orpheuslummis/coincidence-ethglobal2023istanbul) P2P privacy-preserving general matchmaking (2023 hackathon)
 - [(merkle xyz)](https://devfolio.co/projects/merkle-xyz-35fe) Merkle tree proof in Lurk, a Lisp ZK DSL (2023 hackathon)
 - [Verified distributed super-computation of Collatz sequences](https://github.com/orpheuslummis/Collaptz) (2023 hackathon)
 - [Multisig wallet on FuelVM's predicate system](https://fuel-labs.ghost.io/ethlisbon22-recap/) (2022 hackathon)
@@ -30,7 +29,7 @@
 - Awards
   - [ETH Global Finalist](https://github.com/meirbank/ETHBogota2022) at ETH Bogota 2022
   - [Authsome](https://github.com/authsome/authsome): [1st prize, Fuel](https://fuel-labs.ghost.io/ethlisbon22-recap/) at ETH Lisbon 2022
-  - [Coincidence](https://github.com/orpheuslummis/coincidence-ethglobal2023istanbul): Best privacy-focused project using Waku, at ETH Istanbul 2023
+  - [Coincidence](https://github.com/orpheuslummis/coincidence-ethglobal2023istanbul): Waku's best privacy-focused project & Metamask's best mobile dapp, at ETH Istanbul 2023
   - [2nd prize with Risc0 zero-knowledge VM](https://github.com/orpheuslummis/Collaptz), at ETH Waterloo 2023
   - Special Mention at HackWasm 2022 for [Threshold Funding CosmWasm contract](https://github.com/orpheuslummis/threshold-funding)
   - Top 1% Engineer in AI & Machine Learning, Backend Engineering, and Web3 Development for October 2023, [on Pangea](https://share.pangea.app/manage/60e243a9-0cb5-47db-96b0-45b681f17f80).
