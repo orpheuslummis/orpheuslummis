@@ -1,17 +1,16 @@
 ## Orpheus Lummis
 
-## Info / Contact
+I'm a software developer and entrepreneur. I'm interested in computing, AI safety, consciousness, civilizational flourishing.
+
+I'm building [Covalence](https://www.covalence.info/), a collaborative framework. I'm also working on [HΩ](https://horizonomega.org/), an AI safety accelerator, and related projects like [Coincidence](https://coincidence.network/) matchmaking AI, and [Horizon Events](https://horizonevents.info/) the AI safety events consultancy.
+
+## Contact
 - Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
 - Bluesky: [@orpheuslummis.info](https://bsky.app/profile/orpheuslummis.info)
 - Matrix: [@orpheus:beeper.com](https://matrix.to/#/@orpheus:beeper.com)
-- [Schedule a call](https://calendly.com/orpheuslummis/discussion) between us
-- [Blog](https://orpheus.substack.com/)
-
-## Work-in-progress
-- [Coincidence](https://www.coincidence.network/): Connecting the world and advancing matchmaking technologies for the flourishing of social relationships.
-- [Horizon Events](https://www.horizonevents.info/): Events and tools empowering progress for the public good.
-- [Covalence](https://github.com/orpheuslummis/covalence): New paradigm of collaboration through redefining valuation and distribution of equity
-- [AI Safety Events Tracker](https://aisafety.events/): Track events related to AI safety, via newsletter and website.
+- Github: [github.com/orpheuslummis](https://github.com/orpheuslummis)
+- [Schedule a call](https://cal.com/orpheuslummis) between us
+- [Give feedback](https://airtable.com/appiZHNGa7cQF3qoU/paglXiAYwS0bpujby/form)
 
 ## Past work
 - [DefraDB](https://github.com/sourcenetwork/defradb/): User-centric database that prioritizes data ownership, personal privacy, and information security (2022-2023)
