@@ -1,17 +1,27 @@
 ## Orpheus Lummis
 
-I'm a software developer and entrepreneur, interested in computing, AI safety, consciousness, civilizational flourishing.
+Software developer and entrepreneur, interested in computing, AI safety, x-risks, mind, civilizational flourishing, and more.
 
-I'm working on [Covalence](https://www.covalence.info/), a collaborative framework, [HΩ](https://horizonomega.org/), an AI safety accelerator, and related projects such as [Coincidence](https://coincidence.network/) matchmaking AI, and [Horizon Events](https://horizonevents.info/) an AI safety events consultancy.
+## Working on
 
+As of 2024, focusing on these projects:
+
+- [Covalence](https://www.covalence.info/), a collaborative framework
+- [Horizon Events](https://horizonevents.info/), an AI safety events consultancy
+- [HΩ](https://horizonomega.org/), an AI safety accelerator
+- [Mist River](https://mistriver.org/), a meditation center and permaculture food forest
+- [Coincidence](https://coincidence.network/), a matchmaking AI
 
 ## Contact
 - Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
-- Bluesky: [@orpheuslummis.info](https://bsky.app/profile/orpheuslummis.info)
 - Matrix: [@orpheus:beeper.com](https://matrix.to/#/@orpheus:beeper.com)
-- Github: [github.com/orpheuslummis](https://github.com/orpheuslummis)
 - [Schedule a call](https://cal.com/orpheuslummis) between us
 - [Give feedback](https://airtable.com/appiZHNGa7cQF3qoU/paglXiAYwS0bpujby/form)
+
+## Links
+- Github: [github.com/orpheuslummis](https://github.com/orpheuslummis)
+- Bluesky: [@orpheuslummis.info](https://bsky.app/profile/orpheuslummis.info)
+- Blog: [orpheus.substack.com](https://orpheus.substack.com/)
 
 
 ## Past work
