@@ -9,7 +9,6 @@ As of 2024, focusing on these projects:
 - [Covalence](https://www.covalence.info/), a collaborative framework
 - [Horizon Events](https://horizonevents.info/), an AI safety events consultancy
 - [HΩ](https://horizonomega.org/), an AI safety accelerator
-- [Mist River](https://mistriver.org/), a meditation center and permaculture food forest
 - [Coincidence](https://coincidence.network/), a matchmaking AI
 
 ## Contact
