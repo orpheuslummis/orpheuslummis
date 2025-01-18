@@ -1,4 +1,4 @@
-## Orpheus Lummis
+# Orpheus Lummis
 
 Software developer and entrepreneur ([Horizon Events](https://horizonevents.info/), [Covalence](https://www.covalence.info/), [Coincidence](https://coincidence.network/), ...).
 <br/>Interested in compsci, AI safety, x-risks, mind, civilizational flourishing, ...
