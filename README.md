@@ -1,29 +1,16 @@
 ## Orpheus Lummis
 
-Software developer and entrepreneur, interested in computing, AI safety, x-risks, mind, civilizational flourishing, and more.
+Software developer and entrepreneur ([Horizon Events](https://horizonevents.info/), [Covalence](https://www.covalence.info/), [Coincidence](https://coincidence.network/), ...).
+<br/>Interested in compsci, AI safety, x-risks, mind, civilizational flourishing, ...
 
-## Working on
-
-As of 2024, focusing on these projects:
-
-- [Covalence](https://www.covalence.info/), a collaborative framework
-- [Horizon Events](https://horizonevents.info/), an AI safety events consultancy
-- [HΩ](https://horizonomega.org/), an AI safety accelerator
-- [Coincidence](https://coincidence.network/), a matchmaking AI
-
-## Contact
 - Email: [o@orpheuslummis.info](mailto:o@orpheuslummis.info)
-- Matrix: [@orpheus:beeper.com](https://matrix.to/#/@orpheus:beeper.com)
+- Signal, PGP email, or Matrix available upon request
 - [Schedule a call](https://cal.com/orpheuslummis) between us
 - [Give feedback](https://airtable.com/appiZHNGa7cQF3qoU/paglXiAYwS0bpujby/form)
-
-## Links
-- Github: [github.com/orpheuslummis](https://github.com/orpheuslummis)
 - Bluesky: [@orpheuslummis.info](https://bsky.app/profile/orpheuslummis.info)
-- Blog: [orpheus.substack.com](https://orpheus.substack.com/)
 
 
-## Past work
+## Some past work
 - [DefraDB](https://github.com/sourcenetwork/defradb/): User-centric database that prioritizes data ownership, personal privacy, and information security (2022-2023)
 - [(merkle xyz)](https://devfolio.co/projects/merkle-xyz-35fe) Merkle tree proof in Lurk, a Lisp ZK DSL (2023 hackathon)
 - [Verified distributed super-computation of Collatz sequences](https://github.com/orpheuslummis/Collaptz) (2023 hackathon)
@@ -36,7 +23,7 @@ As of 2024, focusing on these projects:
 - [Altruisme Efficace Québec](https://altruismeefficacequebec.org/) (2018-)
 - Event organizing related to Montréal communities (2015-2018)
 - [Wikipedia (EN) contributions](https://en.wikipedia.org/w/index.php?limit=500&title=Special%3AContributions&contribs=user&target=Orpheus+Lummis&namespace=&tagfilter=&start=&end=) (2017-2019)
-- Awards
+- Awards: 
   - [ETH Global Finalist](https://github.com/meirbank/ETHBogota2022) at ETH Bogota 2022
   - [Authsome](https://github.com/authsome/authsome): [1st prize, Fuel](https://fuel-labs.ghost.io/ethlisbon22-recap/) at ETH Lisbon 2022
   - [Coincidence](https://github.com/orpheuslummis/coincidence-ethglobal2023istanbul): Waku's best privacy-focused project & Metamask's best mobile dapp, at ETH Istanbul 2023
