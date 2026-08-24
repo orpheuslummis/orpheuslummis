@@ -10,6 +10,11 @@ Software developer and entrepreneur ([Horizon Events](https://horizonevents.info
 - Bluesky: [@orpheuslummis.info](https://bsky.app/profile/orpheuslummis.info)
 
 
+## Where I git now
+
+I mostly git on self-hosted forgejo as of mid-2026.
+
+
 ## Some past work
 - [DefraDB](https://github.com/sourcenetwork/defradb/): User-centric database that prioritizes data ownership, personal privacy, and information security (2022-2023)
 - [(merkle xyz)](https://devfolio.co/projects/merkle-xyz-35fe) Merkle tree proof in Lurk, a Lisp ZK DSL (2023 hackathon)
