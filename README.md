@@ -2,7 +2,7 @@
 
 I run [HΩ](https://horizonomega.org), a nonprofit working to reduce catastrophic risk from AI. We organize research seminars and events, host [Montréal’s AI safety community](https://aisafetymontreal.org), and track Canada’s AI risk preparedness.
 
-Most of my code now lives on a self-hosted Forgejo; what is here is older.
+Most of my code now lives on Ω Forge (an advanced Forgejo fork); what is here is older.
 
 [orpheuslummis.info](https://orpheuslummis.info) · o@horizonomega.org · Signal on request · [Anonymous feedback](https://airtable.com/appiZHNGa7cQF3qoU/paglXiAYwS0bpujby/form)
 
